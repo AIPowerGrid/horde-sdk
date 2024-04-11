@@ -1,4 +1,4 @@
-horde_model_reference~=0.6.3
+git+https://github.com/AIPowerGrid/horde-model-reference.git
 
 pydantic
 requests
