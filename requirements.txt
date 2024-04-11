@@ -1,4 +1,4 @@
-git+https://github.com/AIPowerGrid/horde-model-reference.git
+
 
 pydantic
 requests
